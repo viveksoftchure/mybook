@@ -1,0 +1,44 @@
+<?php
+/*
+|--------------------------------------------------------------------------
+| App settings
+|--------------------------------------------------------------------------
+*/
+if( !isset($_SESSION['lg'])){
+    $_SESSION['lg']='fr';
+}
+if( isset( $_GET['lg'])){
+    $lg='fr';
+    if( $_GET['lg'] == 'en' ){$lg='en';
+    }
+    $_SESSION['lg']=$lg;
+}
+$config = [
+    'host' => '127.0.0.1',
+    'port' => '3306',
+    'login' => 'root',
+    'password' => '',
+    'database' => 'mysaas',
+    
+    'server-host' => '',
+    'server-port' => '',
+    'server-login' => '',
+    'server-password' => '',
+    'server-database' => '',
+    
+    'url' => 'http://localhost/mysaas/',
+    'lang' => $_SESSION['lg'],
+    'project_title' => 'Mysaas',
+    'google_api_key' => '',
+    'dev' => 0,
+
+    'currency' => [
+        'eur' => '1',
+        'usd' => '1.10',
+        'thb' => '36.68',
+        'hkd' => '8.63',
+    ],
+
+    'mysqlDumpPath' => 'D:\xampp-74\mysql\bin\mysqldump.exe',
+    'mysqlPath' => 'D:\xampp-74\mysql\bin\mysql.exe',
+];

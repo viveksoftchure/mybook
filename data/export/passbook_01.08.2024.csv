@@ -1,0 +1,252 @@
+﻿ID;Category;"Payment method";Status;Date;Title;Amount
+256;;Bank;0;"2024-07-28 22:28";test;111111111
+257;"BroandBand / Landline";Bank;0;"2024-07-28 22:28";test;111111111
+258;"BroandBand / Landline";Bank;0;"2024-07-28 22:28";test;111111111
+253;;Bank;0;"2024-07-28 22:28";test;111111111
+254;;Bank;0;"2024-07-28 22:28";test;111111111
+255;;Bank;0;"2024-07-28 22:28";test;111111111
+251;"Book Gas Cylinder";"Google Pay";0;"2024-07-17 10:07";khj;58
+260;"BroandBand / Landline";"Google Pay";0;"2024-07-12 22:37";sdfsss;60
+259;"Doctor Consult";"Google Pay";0;"2024-07-11 22:33";sdfa;24
+248;"Beauty Products";Bank;0;"2023-11-19 00:00";"Test Test";1
+249;"Beauty Products";Bank;0;"2023-11-19 00:00";Test;1
+250;"Beauty Products";Bank;0;"2023-11-19 00:00";Test;60
+244;"Mobile Recharge";Paytm;0;"2023-06-14 18:08";"Aditi Mobile recharge";155
+243;Medicines;Paytm;0;"2023-06-13 18:54";"Swastik Medical";1440
+242;Gym;Paytm;0;"2023-06-12 19:25";"Gym Membership";700
+241;"Fund Transfer";Paytm;0;"2023-06-12 10:40";Papa;500
+239;Fashion;Paytm;0;"2023-06-11 10:28";"Hair Dressing";40
+238;Food;Paytm;0;"2023-06-10 18:51";"Namkeen 250Gm";50
+237;Shopping;Paytm;0;"2023-06-03 19:46";Home;110
+236;Fashion;Paytm;0;"2023-06-02 19:19";"Gym Cloths";1000
+235;Petrol;Paytm;0;"2023-06-02 07:59";Petrol;60
+234;Shopping;Paytm;0;"2023-05-31 13:43";"ManForce 3 Piece";90
+233;Shopping;Paytm;0;"2023-05-29 20:03";Home;212
+232;"Doctor Consult";Paytm;0;"2023-05-29 11:59";PRP;4500
+231;Petrol;Paytm;0;"2023-05-29 10:36";"Paid to Gopal Petroleums";60
+230;Ration;Paytm;0;"2023-05-27 18:17";Home;50
+229;Shopping;Paytm;0;"2023-05-27 18:14";Home;30
+228;"Travel Fair";Paytm;0;"2023-05-25 17:45";"Car Booking For Sheetla Mata";350
+227;"Mobile Recharge";Paytm;0;"2023-05-21 21:54";"Vivek Mobile Recharge";395
+226;Shopping;Paytm;0;"2023-05-21 17:50";"Shopy For Aditi";36
+225;Shopping;Paytm;0;"2023-05-21 17:46";"Pears Shop For Heena";27
+224;Ration;Paytm;0;"2023-05-17 19:25";Home;140
+223;Shopping;Paytm;0;"2023-05-17 19:24";Colgate;457
+222;Shopping;Paytm;0;"2023-05-17 13:45";"Mango Dolly Ice-creams 4 Pieces";80
+221;Shopping;Paytm;0;"2023-05-17 13:43";"ManForce 3 Piece";30
+220;Food;Paytm;0;"2023-05-14 19:06";"Baisan Ke Laddu 1/2 KG";90
+219;Food;Paytm;0;"2023-05-11 12:53";"Vivek Lunch(Chole/Nan)";70
+218;"BroandBand / Landline";Paytm;0;"2023-05-07 19:58";"BSNL Bill";589
+217;Electricity;Bank;0;"2023-05-07 19:55";Home;1231
+215;"Mobile Recharge";Paytm;0;"2023-05-05 10:15";"Papa Mobile recharge";455
+216;"Fund Transfer";Paytm;0;"2023-05-03 18:06";"For Heena";1000
+214;"Mobile Recharge";Paytm;0;"2023-05-02 13:12";"Vivek Topup	";25
+213;"Mobile Recharge";Paytm;0;"2023-04-30 16:51";"Heena Mobile Recharge";395
+212;Shopping;Paytm;0;"2023-04-23 13:13";"Laptop Bag";430
+210;Shopping;Paytm;0;"2023-04-19 14:13";"ManForce 10 Piece";90
+211;Food;Paytm;0;"2023-04-19 07:38";"Nakeen + Barfi";135
+208;"BroandBand / Landline";Paytm;0;"2023-04-09 20:25";"BSNL Bill";589
+207;Shopping;Paytm;0;"2023-04-08 08:34";"Dairy Milk 2 Piece";40
+206;Shopping;Paytm;0;"2023-04-07 08:29";"ManForce 10 Piece";90
+205;Shopping;Paytm;0;"2023-04-01 09:56";"PONDS Cold Cream";80
+204;Shopping;Paytm;0;"2023-03-31 13:43";Biscuits;55
+203;Ration;Paytm;0;"2023-03-26 11:06";Home;180
+202;"BroandBand / Landline";Paytm;0;"2023-03-12 20:26";"BSNL Bill";589
+198;"Cash Withdraw";Cash;0;"2023-03-12 19:00";"Withdraw From ATM";21000
+199;Food;Paytm;0;"2023-03-12 11:01";Kachori;90
+200;Fashion;Paytm;0;"2023-03-12 10:58";"Hair Dressing";40
+201;"Fund Transfer";Bank;0;"2023-03-09 08:29";"Alpana Sahu";4000
+197;Shopping;Bank;0;"2023-03-08 21:06";"ElectroSky ABS Pushup Board";598
+191;Electricity;Bank;0;"2023-03-08 15:41";Home;727
+192;"Travel Fair";Bank;0;"2023-03-06 18:49";"Bus Fair";40
+190;Hosting;Bank;0;"2023-03-05 08:03";"Xozz Renew";825
+193;Medicines;Paytm;0;"2023-02-28 14:00";"Swastik Medical";90
+189;"Mobile Recharge";Paytm;0;"2023-02-26 12:00";"Vivek Mobile Recharge";395
+188;"Fund Transfer";Bank;0;"2023-02-21 15:09";"vijay singh rajawat";500
+194;"Mobile Recharge";Paytm;0;"2023-02-20 12:08";"Vivek Topup	";15
+187;"Fund Transfer";Bank;0;"2023-02-17 16:40";"Laxmi Narayan Jaiswal";7000
+186;"Fund Transfer";Bank;0;"2023-02-15 11:55";"Shree Jagmohan Traders";14100
+185;"BroandBand / Landline";Paytm;0;"2023-02-12 19:53";"BSNL Bill";589
+184;"Fund Transfer";Paytm;0;"2023-02-12 16:22";"Laxmi Narayan Jaiswal";30000
+183;"Fund Transfer";Paytm;0;"2023-02-12 16:18";"Ashok Sharma";7000
+182;"Fund Transfer";Paytm;0;"2023-02-12 16:15";"Seema Devi";15000
+180;"Cash Withdraw";Cash;0;"2023-02-10 12:00";"Withdraw From ATM";20000
+181;"Cash Withdraw";Cash;0;"2023-02-10 12:00";"Withdraw From ATM";20000
+179;Medicines;Paytm;0;"2023-02-09 21:02";"Swastik Medical";180
+178;"Mobile Recharge";Paytm;0;"2023-02-06 12:00";"Vivek Topup	";25
+177;"Mobile Recharge";Paytm;0;"2023-02-04 18:50";"Heena Mobile Recharge";395
+176;Petrol;Paytm;0;"2023-02-04 13:38";"Balaji Petrol Pump";1000
+173;"Cash Withdraw";Cash;0;"2023-01-31 12:00";"Withdraw From Bank";50000
+174;"Cash Withdraw";Cash;0;"2023-01-31 12:00";"Withdraw From ATM";20000
+175;"Cash Withdraw";Cash;0;"2023-01-31 12:00";"Withdraw From ATM";20000
+170;"Cash Withdraw";Cash;0;"2023-01-30 12:00";"Withdraw From Bank";50000
+171;"Cash Withdraw";Cash;0;"2023-01-30 12:00";"Withdraw From ATM";20000
+172;"Cash Withdraw";Cash;0;"2023-01-30 12:00";"Withdraw From ATM";20000
+169;"Mobile Recharge";Paytm;0;"2023-01-24 12:03";"Vivek Topup	";25
+168;Others;Paytm;0;"2023-01-22 14:08";"Seema Devi";10000
+167;Fashion;Paytm;0;"2023-01-22 12:38";"Hair Dressing";70
+164;"Cash Withdraw";Cash;0;"2023-01-21 12:00";"Withdraw From Bank";50000
+165;"Cash Withdraw";Cash;0;"2023-01-21 12:00";"Withdraw From ATM";10000
+166;"Cash Withdraw";Cash;0;"2023-01-21 12:00";"Withdraw From ATM";10000
+162;Food;Paytm;0;"2023-01-19 16:26";"KC Tailor";1800
+195;"Mobile Recharge";Paytm;0;"2023-01-16 12:00";"New Jio Sim for Heena";149
+160;Food;Paytm;0;"2023-01-13 19:08";Namkeen;50
+159;"Online Forms";Paytm;0;"2023-01-12 12:00";Aditi;2000
+158;Electricity;Paytm;0;"2023-01-11 22:46";Home;794
+196;"BroandBand / Landline";Paytm;0;"2023-01-11 22:43";"BSNL Bill";589
+155;Food;Paytm;0;"2023-01-11 12:32";"Papita shake";30
+156;Food;Paytm;0;"2023-01-11 12:00";Tikia;80
+154;Food;Paytm;0;"2023-01-09 14:56";"Office Party";1049
+153;Fashion;Paytm;0;"2023-01-09 14:22";"KC Tailor";680
+152;Electronics;Paytm;0;"2023-01-09 11:12";"Redmi 11 Prime 5G Mobile";12999
+151;Medicines;Paytm;0;"2023-01-06 14:40";Medicins;70
+150;Fashion;Paytm;0;"2023-01-05 18:30";"Sharma Fabric";1304
+147;Fashion;Paytm;0;"2023-01-05 17:37";"Sharma Fabric";4663
+148;Fashion;Paytm;0;"2023-01-05 17:37";Shoes;300
+149;Fashion;Paytm;0;"2023-01-05 12:00";Shoes;250
+146;"Online Forms";Paytm;0;"2023-01-03 12:00";Alpana;360
+144;Fashion;Paytm;0;"2022-12-25 13:50";"3 Piece Suit Blue";6000
+143;"Beauty Products";Paytm;0;"2022-12-22 11:36";Shampoo;647
+142;"Doctor Consult";Paytm;0;"2022-12-22 10:56";PRP;4500
+140;Others;Paytm;0;"2022-12-18 12:00";Halwai;1100
+141;Others;Bank;0;"2022-12-18 12:00";Aaasha;5100
+138;Others;Paytm;0;"2022-12-17 12:00";"Marriage Garden";1100
+139;"BroandBand / Landline";Paytm;0;"2022-12-17 12:00";"BSNL Bill";588
+137;Electronics;Paytm;0;"2022-12-07 12:00";"Tp-Link Router";3100
+135;"Mobile Recharge";Paytm;0;"2022-12-03 12:00";"Vivek Mobile Recharge";395
+136;Petrol;Paytm;0;"2022-12-03 12:00";Petrol;120
+134;Fashion;Paytm;0;"2022-11-18 12:00";Jacket;700
+133;"Online Forms";Paytm;0;"2022-11-17 12:00";Alpana;360
+132;Food;Paytm;0;"2022-11-14 12:00";Gajak;240
+131;"BroandBand / Landline";Paytm;0;"2022-11-08 12:00";"BSNL Bill";530
+129;Electricity;Paytm;0;"2022-11-05 12:00";Home;1958
+130;Fashion;Paytm;0;"2022-11-05 12:00";Belt;60
+127;Gift;Paytm;0;"2022-10-29 12:00";BhaiDuj;118
+128;Gift;Paytm;0;"2022-10-29 12:00";BhaiDuj;100
+126;Gift;Paytm;0;"2022-10-27 12:00";BhaiDuj;500
+125;Food;Paytm;0;"2022-10-17 12:00";Bread;30
+124;"BroandBand / Landline";Paytm;0;"2022-10-16 12:00";"BSNL Bill";530
+123;Food;Paytm;0;"2022-10-06 12:00";Namkeen;50
+121;Fashion;Paytm;0;"2022-09-17 12:00";"Mr Kammez";2450
+119;"BroandBand / Landline";Paytm;0;"2022-09-11 12:00";"BSNL Bill";530
+120;"Mobile Recharge";Paytm;0;"2022-09-11 12:00";"Vivek Mobile Recharge";395
+118;"Cash Withdraw";Cash;0;"2022-08-20 12:00";ATM;1500
+163;Others;Cash;0;"2022-08-20 12:00";"From Bank";50000
+117;Gift;Paytm;0;"2022-08-12 12:00";"Rakhi Gift	";300
+115;"BroandBand / Landline";Paytm;0;"2022-08-08 12:00";"BSNL Bill";530
+116;Fashion;Paytm;0;"2022-08-08 12:00";"Shoes 2 Pairs";1520
+114;Gym;Paytm;0;"2022-08-04 12:00";"Gurjar International Gym";500
+113;Food;Paytm;0;"2022-08-02 12:00";"Birthday Party";1000
+112;Food;Paytm;0;"2022-07-20 12:00";Banana;40
+111;"BroandBand / Landline";Paytm;0;"2022-07-17 12:00";"BSNL Bill";530
+110;Ration;Paytm;0;"2022-07-10 12:00";Home;202
+109;Electricity;Paytm;0;"2022-07-09 12:00";Home;2651
+108;Gym;Paytm;0;"2022-07-04 12:00";"Gurjar International Gym";500
+107;Medicines;Paytm;0;"2022-06-27 12:00";"Craving Cure Cafe";200
+106;Food;Paytm;0;"2022-06-26 12:00";"Sheetal Hotel, Tonk";750
+105;"Mobile Recharge";Paytm;0;"2022-06-19 12:00";"Vivek Mobile Recharge";395
+104;Challan;Paytm;0;"2022-06-18 12:00";"Traffic Challan";100
+103;"BroandBand / Landline";Paytm;0;"2022-06-13 12:00";"BSNL Bill";540
+102;Domain;Paytm;0;"2022-06-07 12:00";Rajmishtri;605
+101;Food;Paytm;0;"2022-06-04 00:00";"Mountain Dave";105
+99;Stationary;Paytm;0;"2022-06-02 12:00";Books;250
+100;Stationary;Paytm;0;"2022-06-02 12:00";Books;75
+98;Petrol;Paytm;0;"2022-05-29 12:00";Petrol;1000
+96;Stationary;Paytm;0;"2022-05-26 12:00";Alpana;90
+97;Others;Paytm;0;"2022-05-26 12:00";"Home Expenses";140
+95;"BroandBand / Landline";Paytm;0;"2022-05-20 12:00";"BSNL Bill";489
+94;Petrol;Paytm;0;"2022-05-19 12:00";Petrol;110
+93;Food;Paytm;0;"2022-05-16 12:00";Vinit;1100
+92;Electricity;Paytm;0;"2022-05-11 12:00";Home;1551
+91;"BroandBand / Landline";Paytm;0;"2022-04-16 12:00";"BSNL Bill";482
+90;"Online Forms";Paytm;0;"2022-04-14 12:00";Alpana;260
+88;"Beauty Products";Paytm;0;"2022-04-09 12:00";"Himalaya Shampoo";240
+89;Electronics;Paytm;0;"2022-04-09 12:00";"Syska Iron";549
+87;"Mobile Recharge";Paytm;0;"2022-04-03 08:40";"Maa Mobile Recharge";75
+86;"Mobile Recharge";Paytm;0;"2022-03-25 12:00";"Vivek Mobile Recharge";395
+85;"BroandBand / Landline";Paytm;0;"2022-03-20 12:00";"BSNL Bill";460
+83;Gym;Paytm;0;"2022-03-14 12:00";"Gurjar International Gym";200
+84;Electricity;Paytm;0;"2022-03-14 12:00";Home;1279
+82;"Mobile Recharge";Paytm;0;"2022-03-08 12:00";"Papa Mobile recharge";455
+81;Electronics;Paytm;0;"2022-02-28 12:00";"Redmi 9i sport Mobile";7650
+79;"Online Forms";Paytm;0;"2022-02-27 12:00";Vivek;360
+80;"Mobile Recharge";Paytm;0;"2022-02-27 12:00";"Maa Mobile Recharge";91
+78;Religion;Paytm;0;"2022-02-25 12:00";rudraksha-diksha(online;51
+76;Domain;Paytm;0;"2022-02-23 12:00";"WpWebGuru ";2121
+77;Stationary;Paytm;0;"2022-02-23 12:00";Alpana;96
+74;Electricity;Paytm;0;"2022-02-13 12:00";Factory;457
+75;"BroandBand / Landline";Paytm;0;"2022-02-13 12:00";"BSNL Bill";459
+73;Hosting;Paytm;0;"2022-02-12 12:00";"Xozz Renew";706
+72;"Doctor Consult";Paytm;0;"2022-02-09 12:00";"ALCS Consult Fee";500
+71;Fashion;Paytm;0;"2022-01-29 12:00";"Cantabil Dress";1987
+70;"Mobile Recharge";Paytm;0;"2022-01-26 12:00";"Maa Mobile Recharge";91
+69;Stationary;Paytm;0;"2022-01-20 12:00";Alpana;110
+68;Electricity;Paytm;0;"2022-01-15 12:00";Home;1347
+66;"BroandBand / Landline";Paytm;0;"2022-01-06 12:00";"BSNL Bill";459
+67;Others;Paytm;0;"2022-01-06 12:00";"Alpana GGD";51
+65;"Mobile Recharge";Paytm;0;"2022-01-02 12:00";"Vivek Mobile Recharge";395
+64;Domain;Paytm;0;"2021-12-28 12:00";WpDevGuru;486
+63;Electronics;Paytm;0;"2021-12-21 12:00";"Hoffen Weight Machine";900
+62;"Book Gas Cylinder";Paytm;0;"2021-12-13 12:00";"Gas Cylinder";903
+61;"BroandBand / Landline";Paytm;0;"2021-12-09 12:00";"BSNL Bill";459
+60;Food;Paytm;0;"2021-12-07 12:00";"Gajak 500G for Office";140
+59;Fashion;Paytm;0;"2021-12-01 12:00";"Dress from KC Tailor";630
+57;Fashion;Paytm;0;"2021-11-27 12:00";"RedTape Coat";2340
+58;"Mobile Recharge";Paytm;0;"2021-11-27 12:00";"Vivek Mobile Recharge";249
+55;"BroandBand / Landline";Paytm;0;"2021-11-08 12:00";"BSNL Bill";459
+56;Electricity;Paytm;0;"2021-11-08 12:00";Home;2622
+53;Others;Paytm;0;"2021-11-06 12:00";"Alpana paytm";110
+52;Fashion;Paytm;0;"2021-10-25 12:00";"Dress from Deepak";450
+48;Others;Cash;0;"2021-10-16 12:00";"Withdraw from ATM";800
+49;Electricity;Paytm;0;"2021-10-16 12:00";Factory;249
+50;Electronics;Paytm;0;"2021-10-16 12:00";"CPU SMPS";600
+51;Electronics;Paytm;0;"2021-10-16 12:00";"Lenovo Battery";600
+47;"BroandBand / Landline";Paytm;0;"2021-10-15 12:00";"BSNL Bill";459
+45;"Mobile Recharge";Paytm;0;"2021-10-08 12:00";"Vivek Mobile Recharge";149
+46;Food;Paytm;0;"2021-10-08 12:00";Paneer;200
+54;"Mobile Recharge";Paytm;0;"2021-10-08 12:00";"Vivek Topup	";129
+44;Electronics;Paytm;0;"2021-10-04 12:00";"Syska Trimmer";1144
+43;Food;Paytm;0;"2021-10-01 12:00";"Vivek Lunch(Chole/Nan)";60
+42;Others;Cash;0;"2021-09-27 00:00";"Rahul (BSNL)";100
+122;"Book Gas Cylinder";Paytm;0;"2021-09-20 12:00";"Gas Cylinder";1060
+39;"BroandBand / Landline";Paytm;0;"2021-09-12 12:00";"BSNL Bill";459
+40;Electricity;Paytm;0;"2021-09-12 12:00";Electricity;3571
+41;"Mobile Recharge";Paytm;0;"2021-09-12 12:00";"Vivek Topup	";129
+38;Electronics;Paytm;0;"2021-08-30 00:00";"Redmi Note 10 pro Max";18000
+37;Others;Paytm;0;"2021-08-21 12:00";"Tempered Realme 8";100
+35;Food;Paytm;0;"2021-08-19 12:00";"Vinit for Pizza";860
+34;"Mobile Recharge";Paytm;0;"2021-08-19 00:00";"vinit for Pizza";860
+36;Others;Paytm;0;"2021-08-19 00:00";"Tempered Realme 8";50
+33;"BroandBand / Landline";Paytm;0;"2021-08-18 12:00";"BSNL Bill";459
+32;Electronics;Paytm;0;"2021-08-17 12:00";"Realme 8";14000
+31;Gym;Paytm;0;"2021-08-03 00:00";"Gurjar International Gym";1300
+30;"BroandBand / Landline";Paytm;0;"2021-07-19 12:00";"BSNL Bill";459
+29;"Mobile Recharge";Paytm;0;"2021-07-16 12:00";"Vivek Topup	";49
+28;Electricity;Paytm;0;"2021-07-09 12:00";Electricity;3497
+27;"Mobile Recharge";Paytm;0;"2021-07-01 12:00";"Papa Mobile recharge";379
+26;"BroandBand / Landline";Paytm;0;"2021-06-16 12:00";"BSNL Bill";636
+24;"Mobile Recharge";Paytm;0;"2021-06-08 12:00";"Vivek Topup	";49
+25;"Mobile Recharge";Paytm;0;"2021-06-08 12:00";"Alpana Topup";49
+23;"BroandBand / Landline";Paytm;0;"2021-05-13 00:00";"BSNL Bill";263
+22;Electronics;Cash;0;"2021-05-05 00:00";"BSNL Telephone";200
+20;"Mobile Recharge";Paytm;0;"2021-04-20 12:00";"Vivek Airtel Data";49
+21;Electronics;Cash;0;"2021-04-20 00:00";"Netis Modem";500
+19;"Mobile Recharge";Paytm;0;"2021-04-17 12:00";"Alpana Mobile";199
+18;"Mobile Recharge";Paytm;0;"2021-04-16 12:00";"Vivek Airtel Data";78
+15;"BroandBand / Landline";Cash;0;"2021-04-13 12:00";"BSNL Security";500
+16;"Travel Fair";Cash;0;"2021-04-13 12:00";"Bus Fair";500
+17;Electronics;Paytm;0;"2021-04-13 00:00";"TP-Link Archer";1500
+13;"Mobile Recharge";Paytm;0;"2021-04-12 12:00";"Vivek Topup";49
+14;"Mobile Recharge";Paytm;0;"2021-04-12 12:00";"Vivek Topup";49
+11;"Mobile Recharge";Paytm;0;"2021-04-08 12:00";"Papa Mobile recharge";379
+12;"Mobile Recharge";Paytm;0;"2021-04-08 12:00";"Aditi Mobile recharge";149
+9;Petrol;Paytm;0;"2021-04-07 12:00";Petrol;200
+10;"DTH Recharge";Paytm;0;"2021-04-07 12:00";"Tata Sky";170
+8;Domain;Paytm;0;"2021-03-22 12:00";"WpWebGuru ";470
+7;Petrol;Paytm;0;"2021-03-13 12:00";Petrol;160
+6;"Mobile Recharge";Paytm;0;"2021-03-12 12:00";"Aditi Mobile recharge";149
+5;"DTH Recharge";Paytm;0;"2021-03-08 12:00";"Tata Sky";170
+4;Hosting;Paytm;0;"2021-03-08 00:00";"Xozz Renew";588
+3;Electricity;Paytm;0;"2021-03-05 00:00";Electricity;615
+2;"Book Gas Cylinder";Paytm;0;"2021-03-04 00:00";"Gas Cylinder";825
+1;"DTH Recharge";Paytm;0;"2021-02-08 12:00";"Tata Sky";170

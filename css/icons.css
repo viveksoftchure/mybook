@@ -1,0 +1,506 @@
+.svg-icon {
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    fill: currentColor;
+    vertical-align: middle;
+    mask-size: contain;
+    -webkit-mask-size: contain;
+    background: #212529;
+}
+
+.svg-amazon-pay {
+    mask: url('svg/amazon-pay.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/amazon-pay.svg') no-repeat center center / contain;
+}
+
+.svg-arrow-down {
+    mask: url('svg/arrow-down.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/arrow-down.svg') no-repeat center center / contain;
+}
+
+.svg-arrow-left {
+    mask: url('svg/arrow-left.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/arrow-left.svg') no-repeat center center / contain;
+}
+
+.svg-arrow-narrow-down {
+    mask: url('svg/arrow-narrow-down.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/arrow-narrow-down.svg') no-repeat center center / contain;
+}
+
+.svg-arrow-narrow-left {
+    mask: url('svg/arrow-narrow-left.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/arrow-narrow-left.svg') no-repeat center center / contain;
+}
+
+.svg-arrow-narrow-right {
+    mask: url('svg/arrow-narrow-right.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/arrow-narrow-right.svg') no-repeat center center / contain;
+}
+
+.svg-arrow-narrow-up {
+    mask: url('svg/arrow-narrow-up.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/arrow-narrow-up.svg') no-repeat center center / contain;
+}
+
+.svg-arrow-right {
+    mask: url('svg/arrow-right.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/arrow-right.svg') no-repeat center center / contain;
+}
+
+.svg-arrow-sm-down {
+    mask: url('svg/arrow-sm-down.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/arrow-sm-down.svg') no-repeat center center / contain;
+}
+
+.svg-arrow-sm-left {
+    mask: url('svg/arrow-sm-left.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/arrow-sm-left.svg') no-repeat center center / contain;
+}
+
+.svg-arrow-sm-right {
+    mask: url('svg/arrow-sm-right.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/arrow-sm-right.svg') no-repeat center center / contain;
+}
+
+.svg-arrow-sm-up {
+    mask: url('svg/arrow-sm-up.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/arrow-sm-up.svg') no-repeat center center / contain;
+}
+
+.svg-arrow-up {
+    mask: url('svg/arrow-up.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/arrow-up.svg') no-repeat center center / contain;
+}
+
+.svg-bank {
+    mask: url('svg/bank.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/bank.svg') no-repeat center center / contain;
+}
+
+.svg-barber {
+    mask: url('svg/barber.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/barber.svg') no-repeat center center / contain;
+}
+
+.svg-beauty-products {
+    mask: url('svg/beauty-products.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/beauty-products.svg') no-repeat center center / contain;
+}
+
+.svg-book {
+    mask: url('svg/book.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/book.svg') no-repeat center center / contain;
+}
+
+.svg-bsnl-selfcare {
+    mask: url('svg/bsnl-selfcare.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/bsnl-selfcare.svg') no-repeat center center / contain;
+}
+
+.svg-budget {
+    mask: url('svg/budget.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/budget.svg') no-repeat center center / contain;
+}
+
+.svg-cash {
+    mask: url('svg/cash.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/cash.svg') no-repeat center center / contain;
+}
+
+.svg-category {
+    mask: url('svg/category.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/category.svg') no-repeat center center / contain;
+}
+
+.svg-cheque {
+    mask: url('svg/cheque.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/cheque.svg') no-repeat center center / contain;
+}
+
+.svg-clone {
+    mask: url('svg/clone.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/clone.svg') no-repeat center center / contain;
+}
+
+.svg-clothes {
+    mask: url('svg/clothes.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/clothes.svg') no-repeat center center / contain;
+}
+
+.svg-cpanel {
+    mask: url('svg/cpanel.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/cpanel.svg') no-repeat center center / contain;
+}
+
+.svg-css {
+    mask: url('svg/css.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/css.svg') no-repeat center center / contain;
+}
+
+.svg-csv-file-format {
+    mask: url('svg/csv-file-format.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/csv-file-format.svg') no-repeat center center / contain;
+}
+
+.svg-csv-file-type {
+    mask: url('svg/csv-file-type.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/csv-file-type.svg') no-repeat center center / contain;
+}
+
+.svg-dashboard {
+    mask: url('svg/dashboard.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/dashboard.svg') no-repeat center center / contain;
+}
+
+.svg-db-table {
+    mask: url('svg/db-table.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/db-table.svg') no-repeat center center / contain;
+}
+
+.svg-delete {
+    mask: url('svg/delete.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/delete.svg') no-repeat center center / contain;
+}
+
+.svg-doctor {
+    mask: url('svg/doctor.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/doctor.svg') no-repeat center center / contain;
+}
+
+.svg-domain {
+    mask: url('svg/domain.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/domain.svg') no-repeat center center / contain;
+}
+
+.svg-edit {
+    mask: url('svg/edit.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/edit.svg') no-repeat center center / contain;
+}
+
+.svg-electricity {
+    mask: url('svg/electricity.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/electricity.svg') no-repeat center center / contain;
+}
+
+.svg-electronics {
+    mask: url('svg/electronics.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/electronics.svg') no-repeat center center / contain;
+}
+
+.svg-email {
+    mask: url('svg/email.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/email.svg') no-repeat center center / contain;
+}
+
+.svg-exercise-gym {
+    mask: url('svg/exercise-gym.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/exercise-gym.svg') no-repeat center center / contain;
+}
+
+.svg-export {
+    mask: url('svg/export.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/export.svg') no-repeat center center / contain;
+}
+
+.svg-eye-close {
+    mask: url('svg/eye-close.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/eye-close.svg') no-repeat center center / contain;
+}
+
+.svg-eye-open {
+    mask: url('svg/eye-open.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/eye-open.svg') no-repeat center center / contain;
+}
+
+.svg-folder-open-dark {
+    mask: url('svg/folder-open-dark.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/folder-open-dark.svg') no-repeat center center / contain;
+}
+
+.svg-folder-open-side {
+    mask: url('svg/folder-open-side.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/folder-open-side.svg') no-repeat center center / contain;
+}
+
+.svg-food-bag {
+    mask: url('svg/food-bag.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/food-bag.svg') no-repeat center center / contain;
+}
+
+.svg-food {
+    mask: url('svg/food.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/food.svg') no-repeat center center / contain;
+}
+
+.svg-form {
+    mask: url('svg/form.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/form.svg') no-repeat center center / contain;
+}
+
+.svg-forms {
+    mask: url('svg/forms.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/forms.svg') no-repeat center center / contain;
+}
+
+.svg-gas-cylinder {
+    mask: url('svg/gas-cylinder.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/gas-cylinder.svg') no-repeat center center / contain;
+}
+
+.svg-gas-station {
+    mask: url('svg/gas-station.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/gas-station.svg') no-repeat center center / contain;
+}
+
+.svg-gears-light {
+    mask: url('svg/gears-light.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/gears-light.svg') no-repeat center center / contain;
+}
+
+.svg-gears {
+    mask: url('svg/gears.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/gears.svg') no-repeat center center / contain;
+}
+
+.svg-gift {
+    mask: url('svg/gift.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/gift.svg') no-repeat center center / contain;
+}
+
+.svg-google-pay {
+    mask: url('svg/google-pay.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/google-pay.svg') no-repeat center center / contain;
+}
+
+.svg-import {
+    mask: url('svg/import.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/import.svg') no-repeat center center / contain;
+}
+
+.svg-internet-network-signal {
+    mask: url('svg/internet-network-signal.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/internet-network-signal.svg') no-repeat center center / contain;
+}
+
+.svg-key {
+    mask: url('svg/key.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/key.svg') no-repeat center center / contain;
+}
+
+.svg-life-insurence {
+    mask: url('svg/life-insurence.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/life-insurence.svg') no-repeat center center / contain;
+}
+
+.svg-line-graph-down {
+    mask: url('svg/line-graph-down.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/line-graph-down.svg') no-repeat center center / contain;
+}
+
+.svg-line-graph-up {
+    mask: url('svg/line-graph-up.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/line-graph-up.svg') no-repeat center center / contain;
+}
+
+.svg-map-pin-alt {
+    mask: url('svg/map-pin-alt.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/map-pin-alt.svg') no-repeat center center / contain;
+}
+
+.svg-map-pin {
+    mask: url('svg/map-pin.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/map-pin.svg') no-repeat center center / contain;
+}
+
+.svg-medical-report {
+    mask: url('svg/medical-report.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/medical-report.svg') no-repeat center center / contain;
+}
+
+.svg-medicine-bottle {
+    mask: url('svg/medicine-bottle.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/medicine-bottle.svg') no-repeat center center / contain;
+}
+
+.svg-medicine {
+    mask: url('svg/medicine.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/medicine.svg') no-repeat center center / contain;
+}
+
+.svg-money-send {
+    mask: url('svg/money-send.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/money-send.svg') no-repeat center center / contain;
+}
+
+.svg-movie-theater {
+    mask: url('svg/movie-theater.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/movie-theater.svg') no-repeat center center / contain;
+}
+
+.svg-museum {
+    mask: url('svg/museum.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/museum.svg') no-repeat center center / contain;
+}
+
+.svg-notebook-pen {
+    mask: url('svg/notebook-pen.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/notebook-pen.svg') no-repeat center center / contain;
+}
+
+.svg-options {
+    mask: url('svg/options.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/options.svg') no-repeat center center / contain;
+}
+
+.svg-paytm {
+    mask: url('svg/paytm.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/paytm.svg') no-repeat center center / contain;
+}
+
+.svg-pdf-file-format {
+    mask: url('svg/pdf-file-format.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/pdf-file-format.svg') no-repeat center center / contain;
+}
+
+.svg-pdf {
+    mask: url('svg/pdf.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/pdf.svg') no-repeat center center / contain;
+}
+
+.svg-plus-large {
+    mask: url('svg/plus-large.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/plus-large.svg') no-repeat center center / contain;
+}
+
+.svg-plus {
+    mask: url('svg/plus.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/plus.svg') no-repeat center center / contain;
+}
+
+.svg-refresh-2 {
+    mask: url('svg/refresh-2.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/refresh-2.svg') no-repeat center center / contain;
+}
+
+.svg-refresh {
+    mask: url('svg/refresh.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/refresh.svg') no-repeat center center / contain;
+}
+
+.svg-satellite-dish-antenna {
+    mask: url('svg/satellite-dish-antenna.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/satellite-dish-antenna.svg') no-repeat center center / contain;
+}
+
+.svg-search {
+    mask: url('svg/search.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/search.svg') no-repeat center center / contain;
+}
+
+.svg-setting {
+    mask: url('svg/setting.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/setting.svg') no-repeat center center / contain;
+}
+
+.svg-shoes {
+    mask: url('svg/shoes.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/shoes.svg') no-repeat center center / contain;
+}
+
+.svg-shopping-cart {
+    mask: url('svg/shopping-cart.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/shopping-cart.svg') no-repeat center center / contain;
+}
+
+.svg-sms {
+    mask: url('svg/sms.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/sms.svg') no-repeat center center / contain;
+}
+
+.svg-strongman {
+    mask: url('svg/strongman.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/strongman.svg') no-repeat center center / contain;
+}
+
+.svg-subscriptions {
+    mask: url('svg/subscriptions.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/subscriptions.svg') no-repeat center center / contain;
+}
+
+.svg-svg {
+    mask: url('svg/svg.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/svg.svg') no-repeat center center / contain;
+}
+
+.svg-table {
+    mask: url('svg/table.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/table.svg') no-repeat center center / contain;
+}
+
+.svg-tables {
+    mask: url('svg/tables.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/tables.svg') no-repeat center center / contain;
+}
+
+.svg-tap-faucet {
+    mask: url('svg/tap-faucet.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/tap-faucet.svg') no-repeat center center / contain;
+}
+
+.svg-temple {
+    mask: url('svg/temple.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/temple.svg') no-repeat center center / contain;
+}
+
+.svg-traffic-fine {
+    mask: url('svg/traffic-fine.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/traffic-fine.svg') no-repeat center center / contain;
+}
+
+.svg-travel {
+    mask: url('svg/travel.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/travel.svg') no-repeat center center / contain;
+}
+
+.svg-user-circle-dark {
+    mask: url('svg/user-circle-dark.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/user-circle-dark.svg') no-repeat center center / contain;
+}
+
+.svg-user-circle-light {
+    mask: url('svg/user-circle-light.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/user-circle-light.svg') no-repeat center center / contain;
+}
+
+.svg-user-pen {
+    mask: url('svg/user-pen.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/user-pen.svg') no-repeat center center / contain;
+}
+
+.svg-user-plus {
+    mask: url('svg/user-plus.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/user-plus.svg') no-repeat center center / contain;
+}
+
+.svg-users {
+    mask: url('svg/users.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/users.svg') no-repeat center center / contain;
+}
+
+.svg-water-null {
+    mask: url('svg/water-null.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/water-null.svg') no-repeat center center / contain;
+}
+
+.svg-weight-scale {
+    mask: url('svg/weight-scale.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/weight-scale.svg') no-repeat center center / contain;
+}
+
+.svg-xlsx-file-format {
+    mask: url('svg/xlsx-file-format.svg') no-repeat center center / contain;
+    -webkit-mask: url('svg/xlsx-file-format.svg') no-repeat center center / contain;
+}
+
